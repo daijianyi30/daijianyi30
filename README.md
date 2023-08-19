@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @daijianyi30
+- 👀 I’m interested in Data Science student proficient in R. 
+- 🌱 I’m currently learning Passionate about converting data into actionable insights.
